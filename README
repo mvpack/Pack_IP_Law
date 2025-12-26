@@ -1,0 +1,7 @@
+echo "# Pack_IP_Law" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mvpack/Pack_IP_Law.git
+git push -u origin main
